@@ -1,6 +1,6 @@
 ![Linkedin_Cover_-_Data_Scientist_py4mog](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
 
-<h1 align="center">Hi 👋, I'm Mohamamd Saifi Ansari</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Saifi Ansari</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
 - 🌱 I love learning as a process and mostly about new things...
@@ -23,23 +23,16 @@
 ## `Tools:`
 
 <img align="left" alt="SQL" height="40" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> <b>
-<img align="left" alt="excel" height="40" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png" />
-<a href="https://colab.google/" target="_blank" rel="noreferrer">
+<img align="left" alt="excel" height="40" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png" /><a href="https://colab.google/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/94888819/179532814-fa9beb8f-0fd6-4160-8d47-650af59c58a1.png" alt="GC" width="40" height="40"/> </a>
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="40" height="40"/> </a><br />
 <a href="https://www.anaconda.com" target="_blank" rel="noreferrer">
-<img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
-<a href="https://tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94888819/179420219-9ce785fd-b1eb-4caa-aebd-086c088d05f2.png" alt="vsc" width="60" height="40"/> </a>
+<img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" /><a href="https://tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94888819/179420219-9ce785fd-b1eb-4caa-aebd-086c088d05f2.png" alt="vsc" width="60" height="40"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
 <img align="left" alt="jn" height="50" src="https://user-images.githubusercontent.com/94888819/179537708-2241ab23-8c86-40c6-8fa9-f3979be75ade.png" />
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" alt="github" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
-
-
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" alt="github" width="50" height="50"/> </a><br />
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://powerbi.microsoft.com/en-in/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerBI" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a><a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" alt="RStudio" width="40" height="40"/> </a></p>
 
 
 ## `Connect with me:`
@@ -52,12 +45,12 @@
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 ## `Read and catch up on content:`
-- [Statistics for Data Science](https://github.com/MoinDalvs/Learn_stats_for-Data_science/blob/main/README.md) :books:
-- [Gradient Descent article](https://github.com/MoinDalvs/Gradient_Descent_For_beginners/blob/main/README.md) ✍️
-- [Artificial Neural Network article](https://github.com/MoinDalvs/Neural_Networks_From_Scratch/blob/main/README.md) :books:
-- [Time_Series_Forecasting article](https://github.com/MoinDalvs/Time_Series_Forecasting_From_Scratch/blob/main/README.md) ✍️
-- [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
-- [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
+- [Statistics for Data Science](https://github.com/SAIFIANS/Statistics-for-Data-Science/blob/main/README.md) :books:
+- [Gradient Descent](https://github.com/SAIFIANS/Gradient_Descent/blob/main/Gradient%20Descent.md) ✍️
+- [Artificial Neural Network](https://github.com/SAIFIANS/Artificial_Neural_Networks/blob/main/Artificial%20Neural%20Networks.md) :books:
+- [Time_Series_Forecasting](https://github.com/SAIFIANS/Time_Series_Forecasting/blob/main/Time%20Series%20Forecasting.md) ✍️
+- [Gradient_Boosting_Algorithms](https://github.com/SAIFIANS/Gradient_Boosting/blob/main/README.md) :books:
+- [Survival_Analysis](https://github.com/SAIFIANS/Survival-Analysis/blob/main/Survival_Analysis.md) ✍️
 
 ## `📈 GitHub Activity Graph:`
 [![Mohammad Saifi GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MoinDalvs&&theme=react-dark)](https://github.com/SAIFIANS)
